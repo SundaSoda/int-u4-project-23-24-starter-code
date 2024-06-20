@@ -27,8 +27,8 @@ body {
 }
 
 .questions img {
-    width: 100%; /* Make images responsive */
-    height: auto;
+    width: 200px; /* Make images responsive */
+    height: 200px;
     border-radius: 8px;
     margin-top: 10px;
 }
